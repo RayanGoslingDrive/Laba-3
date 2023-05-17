@@ -1,0 +1,36 @@
+{"Bands" : [
+  {
+    "Bandname": "Sabaton",
+    "hometown": "Falun Sweden",
+    "genre": "Power metal",
+    "last_ablbum": "The War to End All Wars",
+    "Singer": "Joakim Brodén"
+  },
+  {
+    "Bandname": "In Flames",
+    "hometown": "Gothenburg Sweden",
+    "genre": "Death metal",
+    "last_ablbum": "Foregone",
+    "Singer": "Anders Fridén"
+  },
+  {
+    "Bandname": "Lich King",
+    "hometown": "Amherst Massachusetts",
+    "genre": "Thrash metal",
+    "last_ablbum": "The Omniclasm",
+    "Singer": "Nick Timney"
+  },
+  {
+    "Bandname": "Toxic Holocaust",
+    "hometown": "Portland Oregon",
+    "genre": "Thrash metal",
+    "last_ablbum": "Primal Future: 2019",
+    "Singer": "Joel Grind"
+  },
+  {
+    "Bandname": "Slipknot",
+    "hometown": "Des Moines Iowa",
+    "genre": "Nu metal",
+    "last_ablbum": "The End, So Far",
+    "Singer": "Corey Taylor"
+  },{"Bandname":"Mors Principium Est","hometown":"Pori, Finland","genre":"Melodic death metal","last_ablbum":"Liberate the Unborn Inhumanity","Singer":"Ville Viljanen"},{"Bandname":"Disturbed","hometown":"Chicago, Illinois","genre":"Heavy metal","last_ablbum":"Divisive","Singer":"David Draiman"}]}
