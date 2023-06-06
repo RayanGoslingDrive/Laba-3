@@ -8,6 +8,6 @@
 
 ![Снимок экрана 2023-06-06 134525](https://github.com/RayanGoslingDrive/Laba-3/assets/119112825/c09443c0-e4ac-4538-975d-69ced21ea291)
 
-![Снимок экрана 2023-06-06 125935](https://github.com/RayanGoslingDrive/Laba-3/assets/119112825/b991f712-2ef2-4bed-a902-1f0999509d63)
+![image](https://github.com/RayanGoslingDrive/Laba-3/assets/119112825/68f73d19-0557-495f-adf2-3cb9c04da407)
 
 ![Снимок экрана 2023-06-06 135133](https://github.com/RayanGoslingDrive/Laba-3/assets/119112825/c835c9bb-dd2c-4652-adbf-49f67fc01fed)
